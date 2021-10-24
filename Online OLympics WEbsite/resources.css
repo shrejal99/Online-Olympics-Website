@@ -31,7 +31,7 @@ header{
     box-shadow: rgb(126, 233, 122);
     outline: deepskyblue;
     color:floralwhite;
-    background-color: #e74c3c;
+    background-color: #db3d2c;
     padding:10px;
     margin-top: 20px;
 }
@@ -47,11 +47,11 @@ header{
 }
 .section-info h1{
     font-size: 75px;
-    color: chocolate;
+    color: rgb(204, 103, 32);
 }
 .section-info p{
     font-size:45px;
-    color:#e74c3c;
+    color:#e24533;
 }
 .about-row{
     display: flex;
@@ -71,7 +71,7 @@ header{
 }
 .about-right-col h3{
     font-size: 40px;
-    color: rgb(140, 0, 255);
+    color: rgb(144, 11, 252);
     padding: auto;
 }
 #p-title{
